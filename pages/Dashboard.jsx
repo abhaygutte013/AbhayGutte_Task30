@@ -8,7 +8,7 @@ function Dashboard(){
             <h2>TITLE HEADING</h2>
             <p className="date">
               Title description, April 7, 2014
-            </p>
+            </p> 
             <p>
               Mauris neque quam, fermentum ut nisl vitae,
               convallis maximus nisl. Sed mattis nunc id
