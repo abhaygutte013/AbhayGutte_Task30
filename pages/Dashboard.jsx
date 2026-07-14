@@ -3,7 +3,7 @@ function Dashboard(){
     <div className="page">
       <div className="left-side">
         <div className="main-card">
-          <img src="/public/skateboard.jpg" alt="dashboard" />
+          <img src="/skateboard.jpg" alt="dashboard" />
           <div className="content">
             <h2>TITLE HEADING</h2>
             <p className="date">
@@ -26,7 +26,7 @@ function Dashboard(){
       </div>
       <div className="right-side">
         <div className="profile-card">
-          <img src="/public/profile.png" alt="" />
+          <img src="/profile.png" alt="" />
           <h3>My Name</h3>
           <p>
             Just me, myself and I, exploring the universe
@@ -36,28 +36,28 @@ function Dashboard(){
         <div className="posts">
           <h3>Popular Posts</h3>
           <div className="post">
-            <img src="/public/post1.jpg" alt="" />
+            <img src="/post1.jpg" alt="" />
             <div>
               <h4>Lorem</h4>
               <p>Sed mattis nunc</p>
             </div>
           </div>
           <div className="post">
-            <img src="/public/post2.jpg" alt="" />
+            <img src="/post2.jpg" alt="" />
             <div>
               <h4>Ipsum</h4>
               <p>Praes tinci sed</p>
             </div>
           </div>
           <div className="post">
-            <img src="/public/post3.jpg" alt="" />
+            <img src="/post3.jpg" alt="" />
             <div>
               <h4>Dorum</h4>
               <p>Ultricies congue</p>
             </div>
           </div>
           <div className="post">
-            <img src="/public/post4.jpg" alt="" />
+            <img src="/post4.jpg" alt="" />
             <div>
               <h4>Mingsum</h4>
               <p>Lorem ipsum dipsum</p>
